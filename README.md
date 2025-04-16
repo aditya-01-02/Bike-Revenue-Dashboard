@@ -42,7 +42,7 @@ SQL – Data cleaning, transformation, and loading pipeline.
 
 1. Clone the Repository
 
-        git clone https://github.com/your-username/bike-revenue-dashboard.git
+        git clone https://github.com/aditya-01-02/bike-revenue-dashboard.git
         cd bike-revenue-dashboard
   
 2. Open bike_sales.pbix in Power BI Desktop to explore the dashboard.
