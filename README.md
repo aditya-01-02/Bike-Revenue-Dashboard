@@ -4,14 +4,7 @@ This project is a comprehensive data analytics and visualization solution design
 
 📁 Repository Contents
 
-    bike_revenue.pbix	Power BI report file containing the interactive dashboard and visuals.
-    
-    bike_share_yr_0.csv	Historical bike share data for the first year.
-    
-    bike_share_yr_1.csv	Historical bike share data for the second year.
-    
-    cost_table.csv          Cost reference table detailing maintenance and operational costs.
-    
+    bike_revenue.pbix	Power BI report file containing the interactive dashboard and visuals.    
     SQLBikeShare.sql	SQL script for data preparation and transformation.
 
 📊 Dashboard Features
@@ -38,16 +31,6 @@ SQL – Data cleaning, transformation, and loading pipeline.
 
 
 
-🔧 How to Use
-
-1. Clone the Repository
-
-        git clone https://github.com/aditya-01-02/bike-revenue-dashboard.git
-        cd bike-revenue-dashboard
-  
-2. Open bike_sales.pbix in Power BI Desktop to explore the dashboard.
-
-3. (Optional) Run SQL Script - Use SQLBikeShare.sql with your SQL environment to prepare or simulate the backend database tables.
 
 
 
